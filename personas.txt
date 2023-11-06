@@ -1,0 +1,3 @@
+numero:720:730:789
+director:Paco:Antonio:Luisa
+clientes:a:b:c
